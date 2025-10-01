@@ -9,7 +9,7 @@
 
 <head> <style> body { background-color: lightgreen; } .highlight-box { background-color: yellow; } </style> </head> 
 <br/>
-<p>style="font-family:'Courier New'">Biologiste marin : les missions du métier
+<P style="font-family:Courier New"> Biologiste marin : les missions du métier
 Le biologiste marin, chercheur ou chercheuse en biologie marine, exerce différentes activités qui vont de la recherche pure au sein d'entités publiques : CNRS, INRA, IRD, IFREMER... au développement des ressources halieutiques pour des sociétés privées opérant dans le domaine de l'aquaculture. Il consacre une partie de son temps à des missions océanographiques, mais l'essentiel de son travail s'effectue en laboratoire.<br/>
 
 Sur site, le biologiste marin effectue des plongées pour réaliser des observations, prendre des mesures ou effectuer des prélèvements. Il analyse ensuite ces données en laboratoire, puis les synthétise sous forme de rapports. Variables en fonction de sa spécialisation, ses responsabilités sont multiples :<br:>
@@ -35,4 +35,5 @@ Il lui faudra également être patient, car il sera amené à travailler sur des
 
 
 Carrière et possibilité d’évolution
+
 Si vous êtes titulaire d'un bac+2 spécialisé, type DTSM (diplôme de technicien supérieur de la mer), DU "Environnement littoral" ou DEST "Technicien de la mer et du littoral", vous pourrez être recruté comme assistant chercheur. Pour accéder à la carrière de biologiste marin il vous faudra opter pour la formation continue ou poursuivre vos études jusqu'au doctorat. Par la suite, vous pourrez envisager de devenir chercheur dans un laboratoire spécialisé ou universitaire avec le titre d'enseignant-chercheur.</p>
